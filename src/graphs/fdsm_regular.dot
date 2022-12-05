@@ -1,0 +1,4 @@
+digraph {
+1 -> 2 [label="(((baca+ca)+a(baca+ca))ba+(a(+ba)+ba))"]
+2 [color="red"]
+}

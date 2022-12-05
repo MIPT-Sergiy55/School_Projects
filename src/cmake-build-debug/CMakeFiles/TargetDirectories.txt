@@ -1,0 +1,3 @@
+/home/sergiy/CLionProjects/FormalLang/src/cmake-build-debug/CMakeFiles/src.dir
+/home/sergiy/CLionProjects/FormalLang/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sergiy/CLionProjects/FormalLang/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

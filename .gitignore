@@ -1,3 +1,5 @@
 ./cmake-build-debug/*
 ./erli-algo/
 ./Task1/
+/erli-algo/
+/Task1/

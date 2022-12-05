@@ -1,0 +1,6 @@
+/home/sergiy/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/sergiy/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja -G Ninja -S /home/sergiy/CLionProjects/FormalLang/Task1 -B /home/sergiy/CLionProjects/FormalLang/Task1/cmake-build-debug
+-- Found GMock: /usr/lib/x86_64-linux-gnu/libgmock.a  
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sergiy/CLionProjects/FormalLang/Task1/cmake-build-debug

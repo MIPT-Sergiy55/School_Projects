@@ -1,0 +1,4 @@
+digraph {
+1 -> 2 [label="(((((abb+b(aa)*ab)+aba(aa)*ab)((ba(aa)*ab+bb))*(a+ba(aa)*b)+(aba(aa)*b+b(aa)*b))+aa(aa)*(((aba+b)(aa)*ab+abb)((ba(aa)*ab+bb))*(a+ba(aa)*b)+(aba+b)(aa)*b))(((a+b(aa)*ab)((ba(aa)*ab+bb))*(a+ba(aa)*b)+b(aa)*b))*+(((+b(aa)*(+a))+a)+aa(aa)*(+a)))"]
+2 [color="red"]
+}

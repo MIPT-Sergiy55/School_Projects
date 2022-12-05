@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "test/test-grammar",
+					"jsonFile" : "directory-test.test-grammar-Debug-d6f856f036c87d324486.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "test/test-grammar",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "test/test-parser",
+					"jsonFile" : "directory-test.test-parser-Debug-b4db15ae1821767f174a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "test/test-parser",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Erli-algo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "test-grammar",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "test-parser",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "erli-algo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-erli-algo-Debug-d71ceb3a035ef4083db7.json",
+					"name" : "erli-algo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_grammar::@384c583d70d4d2ca4b08",
+					"jsonFile" : "target-test_grammar-Debug-0657c4e5625949222f85.json",
+					"name" : "test_grammar",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_parser::@6bc647cb43319d4f7c2e",
+					"jsonFile" : "target-test_parser-Debug-844d06ea2c6047947d6e.json",
+					"name" : "test_parser",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sergiy/CLionProjects/FormalLang/erli-algo/cmake-build-debug",
+		"source" : "/home/sergiy/CLionProjects/FormalLang/erli-algo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
